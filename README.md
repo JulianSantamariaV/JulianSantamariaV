@@ -1,6 +1,6 @@
 # Julián Santamaría
 
-**Desarrollador Full Stack** especializado en arquitecturas modernas, desarrollo de sistemas distribuidos y aplicaciones escalables. Apasionado por el clean code, automatización y buenas prácticas de ingeniería de software.
+**Desarrollador Full Stack** especializado en arquitecturas modernas, desarrollo de sistemas distribuidos y aplicaciones escalables. Apasionado por el clean code y buenas prácticas de ingeniería de software.
 
 ---
 
