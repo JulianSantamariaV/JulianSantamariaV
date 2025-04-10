@@ -30,6 +30,16 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliansantamaria&show_icons=true&theme=github_dark&hide_title=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=juliansantamaria&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliansantamaria&layout=compact&theme=github_dark" height="180" />
+</div>
+
+---
+
 ## 📬 Contacto
 
 - **Email:** [santamariavalenciajulian@gmail.com](mailto:santamariavalenciajulian@gmail.com)  
