@@ -32,7 +32,7 @@
 
 ## 📬 Contacto
 
-- **Email:** [julian.santamaria.dev@gmail.com](mailto:santamariavalenciajulian@gmail.com)  
+- **Email:** [santamariavalenciajulian@gmail.com](mailto:santamariavalenciajulian@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/juliansantamaria](https://www.linkedin.com/in/julian-gonzalo-santamaria-valencia-7a026028a/)
 
 ---
